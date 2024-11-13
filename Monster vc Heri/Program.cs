@@ -1,5 +1,5 @@
 ﻿int heroHealth = 10;
-int monsterHealrh = 10;
+int monsterHealth = 10;
 
 Random random = new Random();
 
@@ -9,7 +9,7 @@ do
 {
     //Hero atack
     int heroAttack = random.Next(1, 11);
-    int monsterHealth = heroAttack;
+    monsterHealth -= heroAttack;
 
     Console.WriteLine ($"Monster was damaged and lost {heroAttack} health and now has {monsterHealth} health");
 
@@ -33,4 +33,4 @@ do
     Console.WriteLine("Monster Wins");
     break;
     }
-} while (heroHealth > 0 && monsterHealrh >0);
+} while (heroHealth > 0 && monsterHealth >0);
