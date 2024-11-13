@@ -1,0 +1,14 @@
+/Users/deuswork/Documents/С-Sharp/Monster vs Hero/Monster vc Heri/bin/Debug/net8.0/Monster vc Heri
+/Users/deuswork/Documents/С-Sharp/Monster vs Hero/Monster vc Heri/bin/Debug/net8.0/Monster vc Heri.deps.json
+/Users/deuswork/Documents/С-Sharp/Monster vs Hero/Monster vc Heri/bin/Debug/net8.0/Monster vc Heri.runtimeconfig.json
+/Users/deuswork/Documents/С-Sharp/Monster vs Hero/Monster vc Heri/bin/Debug/net8.0/Monster vc Heri.dll
+/Users/deuswork/Documents/С-Sharp/Monster vs Hero/Monster vc Heri/bin/Debug/net8.0/Monster vc Heri.pdb
+/Users/deuswork/Documents/С-Sharp/Monster vs Hero/Monster vc Heri/obj/Debug/net8.0/Monster vc Heri.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deuswork/Documents/С-Sharp/Monster vs Hero/Monster vc Heri/obj/Debug/net8.0/Monster vc Heri.AssemblyInfoInputs.cache
+/Users/deuswork/Documents/С-Sharp/Monster vs Hero/Monster vc Heri/obj/Debug/net8.0/Monster vc Heri.AssemblyInfo.cs
+/Users/deuswork/Documents/С-Sharp/Monster vs Hero/Monster vc Heri/obj/Debug/net8.0/Monster vc Heri.csproj.CoreCompileInputs.cache
+/Users/deuswork/Documents/С-Sharp/Monster vs Hero/Monster vc Heri/obj/Debug/net8.0/Monster vc Heri.dll
+/Users/deuswork/Documents/С-Sharp/Monster vs Hero/Monster vc Heri/obj/Debug/net8.0/refint/Monster vc Heri.dll
+/Users/deuswork/Documents/С-Sharp/Monster vs Hero/Monster vc Heri/obj/Debug/net8.0/Monster vc Heri.pdb
+/Users/deuswork/Documents/С-Sharp/Monster vs Hero/Monster vc Heri/obj/Debug/net8.0/Monster vc Heri.genruntimeconfig.cache
+/Users/deuswork/Documents/С-Sharp/Monster vs Hero/Monster vc Heri/obj/Debug/net8.0/ref/Monster vc Heri.dll
